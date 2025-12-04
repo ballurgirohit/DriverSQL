@@ -1,0 +1,8 @@
+# Ignore CMake build directory
+build/
+
+# Optional: common CMake-generated files if ever created outside build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
