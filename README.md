@@ -1,2 +1,2 @@
 # DriverSQL
-SQL database mean for resource constrained tiny embedded systems 
+SQL database meant for resource constrained tiny embedded systems 
